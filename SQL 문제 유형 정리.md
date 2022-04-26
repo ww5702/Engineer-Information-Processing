@@ -10,6 +10,12 @@ CREATE INDEX idx_name ON student(name);
 ```
 DELETE FROM 학생 WHERE 이름 = '민수'   
 
+### 튜플 수정
+```
+(  ) 테이블명 (  ) 컬럼 = 값 WHERE 점수 >= 90;
+```
+UPDATE 테이블명 SET 컬럼 = 값 WHERE 점수 >= 90;   
+
 ### 테이블에 컬럼 추가
 ```
 학생 테이블에 주소라는 속성의 크기 20의 컬럼을 추가하는 결과를 작성
@@ -29,3 +35,18 @@ AS 사용할것, WHERE 쓰지말것, GROUP BY 사용할것
 SELECT 학과, COUNT(학과) AS '학과별튜플수'   
 FROM 학생   
 GROUP BY 학과;   
+
+### JOIN 문법
+```
+SELECT ... FROM 학생정보 a JOIN 학과정보 b (   ) a.학과 = b.(   ) 
+```
+ON   
+학과   
+
+### 내림차순
+```
+성이 이씨 인 사람을 내림차순으로 출력
+SELET ... FROM ... WHERE 이름 LIKE ( 1 ) ORDER BY ( 2 )   
+```
+이%   
+DESC   
