@@ -1,9 +1,9 @@
-# Engineer-Information-Processing 5454
+# Engineer-Information-Processing 
 *** 
 ## 1장 요구사항 확인
 ### 소프트웨어 생명주기 모델 종류
 #### 폭프나반
-
+ㅁㄴㅇㄻㄴㅇㄹ
 ### 나선형 모델 절차
 #### 계위개고
 
