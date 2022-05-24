@@ -1,4 +1,4 @@
-# Engineer-Information-Processing  121223233443544565657667
+# Engineer-Information-Processing  1212232334435445656576677887
 ***   
 ## 1장 요구사항 확인
 ### 소프트웨어 생명주기 모델 종류 
