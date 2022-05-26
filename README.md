@@ -1,4 +1,4 @@
-# Engineer-Information-Processing  e212
+# Engineer-Information-Processing  e2123223
 ***   
 ## 1장 요구사항 확인
 ### 소프트웨어 생명주기 모델 종류 
